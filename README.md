@@ -1,53 +1,56 @@
-<h1 align="center">Hi 👋, I'm Ayushi Barapatre</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer | React & Node.js Enthusiast</h3>
+<h1 align="center">Hi, I'm Ayushi Barapatre</h1>
+<h3 align="center">Aspiring Full-Stack Web Developer | React & Node.js</h3>
 
 <p align="center">
-  Building clean, scalable web applications and continuously improving through real-world projects.
+  Building scalable web applications and continuously improving through real-world projects.
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🔭 Currently building **TrackFlow** – A full-stack daily task management web app  
-- 🌱 Currently learning **React.js deeply (Hooks, State Management, API Integration)**  
-- 💡 Interested in Full-Stack Development, UI/UX, and building impactful products  
-- 🎯 Actively looking for **Web Development Internship Opportunities**  
-- 📫 Reach me at: **ayushibarapatre@gmail.com**
+- 🔭 Currently building **TrackFlow** – a full-stack daily task management web application  
+- 📊 Built a **Customer Analytics Dashboard** for visualizing user data and trends  
+- 🌱 Learning React in depth (hooks, state management, API integration)  
+- 🤖 Exploring Machine Learning fundamentals and practical applications  
+- 🎯 Actively seeking Web Development Internship opportunities  
+- 📫 Contact: ayushibarapatre@gmail.com  
 
 ---
 
-### 🚀 Tech Stack
+### 🛠 Tech Stack
 
-#### Frontend
-HTML5 • CSS3 • JavaScript (ES6+) • React.js • Tailwind CSS • Chart.js • Framer Motion
+**Frontend**  
+HTML5 • CSS3 • JavaScript (ES6+) • React.js • Tailwind CSS • Chart.js • Framer Motion  
 
-#### Backend
-Node.js • Express.js
+**Backend**  
+Node.js • Express.js  
 
-#### Database
-MongoDB • SQL  Supabase
+**Database**  
+MongoDB • PostgreSQL  
 
-#### Tools
-Postman • Git • GitHub
-
----
-
-### 📌 Featured Project
-
-#### 🔹 TrackFlow – Daily Task Manager
-- Full-stack task management web application
-- Built using React, Node.js, Express, and MongoDB
-- Features: Task creation, editing, deletion, status tracking
-- Focused on clean UI and efficient backend architecture
+**Tools**  
+Git • GitHub • Postman  
 
 ---
 
-### 🤝 Let's Connect
+### 🚀 Featured Projects
 
-- 📧 Email: ayushibarapatre@gmail.com  
-- 💼 LinkedIn: *(Add your LinkedIn link here)*  
-- 💻 GitHub: *(Add your GitHub profile link here)*  
+**TrackFlow – Daily Task Manager**  
+- Built using React, Node.js, Express, and MongoDB  
+- Implemented full CRUD functionality  
+- Designed with a clean and responsive UI  
+- Structured backend with RESTful APIs  
+
+**Customer Analytics Dashboard**  
+- Interactive dashboard for customer data visualization  
+- Implemented dynamic charts using Chart.js  
+- Focused on clear insight presentation and usability  
 
 ---
 
+### 🤝 Connect
+
+Email: ayushibarapatre@gmail.com  
+LinkedIn: (Add your link)  
+GitHub: (Add your link)
