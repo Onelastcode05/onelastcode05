@@ -52,5 +52,4 @@ Git • GitHub • Postman
 ### 🤝 Connect
 
 Email: ayushibarapatre@gmail.com  
-LinkedIn: (Add your link)  
-GitHub: (Add your link)
+
